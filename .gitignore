@@ -1,0 +1,14 @@
+*.exe
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+build.make
+Makefile
+.ninja_*
+*.o
+*.obj
+moc_*.cpp
+ui_*.h
+.vscode/
+*.user
