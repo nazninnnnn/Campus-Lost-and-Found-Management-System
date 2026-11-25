@@ -315,7 +315,7 @@ border: 1px solid #CBD5E1;
 border-radius: 8px;</string>
     </property>
     <property name="currentIndex">
-     <number>1</number>
+     <number>2</number>
     </property>
     <widget class="QWidget" name="manageItemPage">
      <widget class="QLabel" name="manageItemHeading">
